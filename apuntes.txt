@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript
+
+-- crear proyecto basico
+npx create-react-app .
+
+-- Inicia el servidor de desarrollo.
+ npm start
+
+-- Agrupa la aplicación en archivos estáticos para producción.
+  npm run build
+
+-- Inicia el corredor de pruebas.
+  npm test
+
+-- Elimina esta herramienta y copia las dependencias de compilación, los archivos de configuración y scripts en el directorio de la aplicación. Si haces esto, ¡no podrás volver!
+npm run eject
+
+Le sugerimos que comience escribiendo:
+
+  cd C:\xampp\htdocs\DEV\React\react-todos
+  npm start
