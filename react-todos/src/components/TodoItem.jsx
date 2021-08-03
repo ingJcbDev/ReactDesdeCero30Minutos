@@ -1,6 +1,7 @@
 import React from 'react'
 
-export default function TodoItem() {
+//exportar de forma nombrada
+export function TodoItem() {
     return (
         <div>
             

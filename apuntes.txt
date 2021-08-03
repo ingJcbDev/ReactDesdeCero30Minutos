@@ -19,3 +19,8 @@ Le sugerimos que comience escribiendo:
 
   cd C:\xampp\htdocs\DEV\React\react-todos
   npm start
+
+-- estrutura basica de react
+VS Code ES7 React/Redux/React-Native/JS snippets
+
+  rfc
